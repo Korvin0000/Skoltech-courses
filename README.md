@@ -20,3 +20,4 @@
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
 | Deep Learning|[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2021/DA060057.pdf?v=gmfzcm)		| | [\*click\*](DL/)|
+| Deep Learning for Natural Language Processing |[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2021/DA060057.pdf?v=gmfzcm)		| | [\*click\*](DL/)|
