@@ -8,7 +8,7 @@
 ### Term 2
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
-| Introduction to Natural Language Processing |[MA030367](http://files.skoltech.ru/data/edu/syllabuses/2021/MA030367.pdf?v=isslh1)		|87.41% (A)| [\*click\*](HPPython/)|
+| Introduction to Natural Language Processing |[MA030367](http://files.skoltech.ru/data/edu/syllabuses/2021/MA030367.pdf?v=isslh1)		|113% (A)| [\*click\*](HPPython/)|
 
 
 ### Winter Term
