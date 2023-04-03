@@ -13,7 +13,7 @@
 ### Term 3
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
-| Machine Learning|[MA060018](http://files.skoltech.ru/data/edu/syllabuses/2021/MA060018.pdf?v=x1tayy)		|71% (C)| [\*click\*](ML/)|
+| Machine Learning|[MA060018](http://files.skoltech.ru/data/edu/syllabuses/2021/MA060018.pdf?v=x1tayy)		|71% (C)| [\*click\*](Machine Learning/)|
 | Numerical Modeling|[MA030499](http://files.skoltech.ru/data/edu/syllabuses/2021/MA030499.pdf?v=ox3cu)		|78% (B)| [\*click\*](RecSys/)|
 
 ### Term 4
