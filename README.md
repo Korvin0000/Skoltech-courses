@@ -19,5 +19,5 @@
 ### Term 4
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
-| Deep Learning|[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2021/DA060057.pdf?v=gmfzcm)		|75% (B)| [\*click\*](DL/)|
-| Deep Learning for Natural Language Processing |[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2021/DA060057.pdf?v=gmfzcm)		| | [\*click\*](DL/)|
+| Deep Learning|[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2022/DA060057.pdf?v=7ydeyt)		|75% (B)| [\*click\*](DL/)|
+| Deep Learning for Natural Language Processing |[DA060057](http://files.skoltech.ru/data/edu/syllabuses/2022/MA030556.pdf?v=h8t3rv)		| | [\*click\*](DL/)|
